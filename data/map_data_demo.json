@@ -1,0 +1,394 @@
+{
+  "Data Analytics & Modeling": [
+    {
+      "name": "eXplain",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Polit - X",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Eulytix",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Data Sciences Inc.",
+      "logo": "../logos/nan"
+    }
+  ],
+  "Engagement & Mobilisation": [
+    {
+      "name": "Movement",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "eKairos",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Change.org",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Datack",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Estratos",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "deliberAIde",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Decision 21",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "NationBuilder",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Citipo",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "mySociety",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Zelos",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "CallHub",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Go Vocal",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Make.org",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Delib Ltd",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Dembrane",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Aristotle Inc.",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Ecanvasser",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Qomon",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "openPetition",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "CrowdInsights GmbH",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Qela",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Civocracy",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Digitale Box",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "CamBuildr",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Commonplace",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Nexus Politics",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Conversation Starter BV",
+      "logo": "../logos/nan"
+    }
+  ],
+  "Fundraising": [
+    {
+      "name": "SmartRaise",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Lunda",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Fundraise Up",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Engaging Networks",
+      "logo": "../logos/nan"
+    }
+  ],
+  "GovTech / Civic Infrastructure": [
+    {
+      "name": "Pakflatt",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Political Watch",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "IDnow GmbH",
+      "logo": "../logos/nan"
+    }
+  ],
+  "Messaging & Media": [
+    {
+      "name": "Panterra Global",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "influencethe.com",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Genaios GmbH",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Pelidum Trust & Safety",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "DSPolitical",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Mailchimp",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "TikTok",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Say No To Disinfo",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Trollrensics",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Digiknall GmbH",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "HubSpot",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Battleground AI",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Electica",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "PREVENCY",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Meta",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Magic LEMP",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Facelift Brand Building Technologies GmbH",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Who Targets Me",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "SoundShape",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Reset Tech",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "TrollWall AI",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Valent Projects Ltd",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "NapoleonCat",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Bodyguard",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "ElevenLabs",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Stenomatic",
+      "logo": "../logos/nan"
+    }
+  ],
+  "Movement-Wide & Organisational Infrastructure": [
+    {
+      "name": "Salesforce Inc.",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Acquia",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Atlassian Corporation",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "C6 Digital Ltd",
+      "logo": "../logos/nan"
+    }
+  ],
+  "Research & Insights": [
+    {
+      "name": "FiscalNote",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Future Shift Labs",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "EuroSense",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Appinio",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Policy Insider AI",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Prismos",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Cygnal",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "PoliMonitor",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "OpSci.ai",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "YouGov",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "SAVOIRR",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Demosquare",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Polpo BV",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Spaak Technologies",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Psi Tech",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Ipsos",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Logically",
+      "logo": "../logos/nan"
+    }
+  ],
+  "Voting Tech": [
+    {
+      "name": "Electify",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Voatz",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "LogiVote",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Stateless",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Comitia",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "POLYAS GmbH",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "Suffrago",
+      "logo": "../logos/nan"
+    },
+    {
+      "name": "NemoVote",
+      "logo": "../logos/nan"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "pts-map-poster",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Political Tech Summit poster generator (Tailwind + Puppeteer)",
+  "scripts": {
+    "build:css": "npx tailwindcss -i ./src/poster.css -o ./src/output.css",
+    "export": "node ./src/export.js"
+  },
+  "dependencies": {
+    "puppeteer": "^23.4.1",
+    "tailwindcss": "^3.4.14"
+  }
+}
